@@ -1,8 +1,3 @@
-<style>
-  h1{
-    margin-top:25px
-  }
-    </style>
 
 
 <h2>Series de Exercícios de logica em java Resolvidos Por mim nas aulas de Desenvolvimento de sistemas  </h2>
